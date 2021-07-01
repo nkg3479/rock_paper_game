@@ -29,21 +29,21 @@ body{
 
 }
 .rock >img{
-    height:15vw;
+    height:10vw;
     border-radius: 25px;
 }
 .rock> img:hover{
     opacity: 70%;
 }
 .paper>img{
-    height: 15vw;
+    height: 10vw;
     border-radius: 25px;
 }
 .paper>img:hover{
     opacity: 70%;
 }
 .scissor >img{
-    height: 15vw;
+    height: 10vw;
     border-radius: 25px;
 }
 .scissor> img:hover{
